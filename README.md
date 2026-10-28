@@ -1,8 +1,7 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: MANIKANDAN M  </h3>
-<h3>Register Number:  2122240401823  </h3>
+<h3>Name: AARON RAJESH R  </h3>
+<h3>Register Number:  212223100001  </h3>
 
-# Date: 23/10/2026
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
